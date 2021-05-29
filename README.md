@@ -34,6 +34,7 @@ pocket for auto accidents, people pay annual premiums to an auto insurance
 company. the company then pays all or most of the costs associated with an
 auto accident or other vehicle damage.
 
+
 <br>
 <br>
 <table align= 'Center'>
@@ -57,3 +58,6 @@ auto accident or other vehicle damage.
     <td>0.0%</td>
   </tr>
 </table>
+
+<br>
+https://www.kaggle.com/roshansharma/insurance-claim
