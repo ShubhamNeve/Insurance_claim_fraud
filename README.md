@@ -1,5 +1,5 @@
 <div align = 'center'>
-<img src="https://github.com/ShubhamNeve/Insurance_claim_fraud/blob/main/New.JPG" width="540" height="320" alt="Insurance_Claims"></center>
+<img src="https://github.com/ShubhamNeve/Insurance_claim_fraud/blob/main/Image/New.JPG" width="540" height="320" alt="Insurance_Claims"></center>
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Insurance is an integral component of society and must be affordable
 and reliable to provide everyone with aid in time of need. However,
